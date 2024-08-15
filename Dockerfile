@@ -1,7 +1,7 @@
 ARG NODE_VERSION=18.0.0
 FROM node:${NODE_VERSION}-alpine
 ENV NODE_ENV production
-WORKDIR .
+WORKDIR /application
 
 RUN npm install
 USER node
