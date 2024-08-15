@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  app:
+    image: node:18
+    working_dir: /usr/src/app
+    volumes:
+      - /usr/src/app/node_modules
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: development
+      NEXT_PUBLIC_BACKEND_URL: http://test.backend.siinedz.com/api
+      NEXT_PUBLIC_ITEMS_PER_PAGE: 25
+      
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: bash -c "npm install && npm start"
