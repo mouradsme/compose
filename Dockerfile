@@ -6,8 +6,6 @@ COPY . .
 
 RUN npm install
 RUN npm build
-USER node
 
- 
 EXPOSE 3000
 CMD ["npm", "start"]
