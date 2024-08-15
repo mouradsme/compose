@@ -1,0 +1,22 @@
+{
+  "bePartOfUs": "Faites partie de nous!",
+  "signUpSteps": "Inscrivez-vous et commencez vos étapes vers le succès",
+  "acceptInvitation": "Accepter l'invitation",
+  "submit": "Soumettre",
+  "fullNamePlaceholder": "Nom complet",
+  "emailPlaceholder": "Votre Email",
+  "passwordPlaceholder": "Mot de passe",
+  "birthdayPlaceholder": "Date de naissance",
+  "wilayaPlaceholder": "Wilaya",
+  "communePlaceholder": "Commune",
+  "createAccount": "Créer un nouveau compte",
+  "orContinueWith": "Ou continuez avec",
+  "terms": "En vous connectant à l'académie, vous acceptez nos",
+  "termsLink": "Termes et conditions",
+  "signUpHelp": "Aide à l'inscription",
+  "videoHelp": "Cette vidéo vous aidera à créer un nouveau compte",
+  "or": "Ou",
+  "studyLevel": "Niveau d'étude",
+  "studyYear": "Année d'étude",
+  "studyPath": "Chemin d'étude"
+}

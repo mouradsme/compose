@@ -1,0 +1,53 @@
+{
+  "title": "Privacy Policy",
+  "introduction": {
+    "title": "Privacy Policy",
+    "subtitle": "Introduction",
+    "content": "Welcome to Siine, where we prioritize your privacy and data security. This policy outlines how we manage and protect your personal data on our e-learning platform."
+  },
+  "informationCollection": {
+    "title": "Information Collection",
+    "subtitle": "Introduction",
+    "content": "Siine collects personal information such as names, email addresses, and other relevant details during account registration and app usage. This information is crucial for providing a personalized learning experience."
+  },
+  "useOfInformation": {
+    "title": "Use of Information",
+    "subtitle": "Introduction",
+    "content": "We use your data to customize your educational journey, offer customer support and respond to queries, enhance and innovate our platform and course content, and communicate essential updates and information about Siine. Your personal information is not sold or rented to third parties."
+  },
+  "dataSecurityAndStorage": {
+    "title": "Data Security and Storage",
+    "subtitle": "Introduction",
+    "content": "Protecting your data is a key commitment at Siine. All personal data is securely stored in data centers located in Algeria, ensuring your information is managed within the country."
+  },
+  "userRights": {
+    "title": "User Rights",
+    "subtitle": "Introduction",
+    "content": "Users have the right to access, update, or delete their personal information. Please contact us to exercise these rights."
+  },
+  "childrensPrivacy": {
+    "title": "Children's Privacy",
+    "subtitle": "Introduction",
+    "content": "Siine is not designed for children under 13 years of age. We do not knowingly collect personal information from children in this age group."
+  },
+  "policyChanges": {
+    "title": "Policy Changes",
+    "subtitle": "Introduction",
+    "content": "We may update this privacy policy as needed. Changes will be posted on this page."
+  },
+  "courseContentDisclaimer": {
+    "title": "Specific Disclaimer on Course Content",
+    "subtitle": "Introduction",
+    "content": "All course materials on Siine are the copyrighted and exclusive property of Siine. Unauthorized downloading, redistribution, or use outside of Siine is strictly prohibited and may result in legal action."
+  },
+  "governingLaw": {
+    "title": "Governing Law",
+    "subtitle": "Introduction",
+    "content": "This policy is governed by the laws of Algeria. Disputes, if any, will be resolved under Algerian jurisdiction."
+  },
+  "contactInformation": {
+    "title": "Contact Information",
+    "subtitle": "Introduction",
+    "content": "For questions or concerns regarding our privacy policy, contact us at: Email: contact@siinedz.com WhatsApp: +213559547338"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "whatYouNeed": "What do you need from us",
+  "buildApproach": "Build the right approach",
+  "toEducation": "to your education",
+  "reapSuccess": "and reap your success",
+  "viewPrograms": "View our Programms",
+  "siine": "Siine",
+  "siineDescription": "It is an educational platform that provides academic curricula in brief ways",
+  "aboutUsDescription": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+  "makesStudying": "Makes studying a part of your day less effort and more intelligence",
+  "simplifiedCurricula": "Simplified curricula and a unique user experience to enable you to arrange your educational path, prepare well for your exams, and in the present and the future. and in the present",
+  "whoCanApply": "Who can apply?",
+  "academicStudent": "Academic student",
+  "findPrograms": "They find many academic programs",
+  "shortDescription": "Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy",
+  "learnMore": "Learn more",
+  "academicTeachers": "Academic Teacher's",
+  "providingMaterials": "Providing study materials in the easiest way",
+  "explorePrograms": "Explore our programs",
+  "programDescription": "Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy",
+  "register": "Register",
+  "programs": [
+    {
+      "title": "Mathematics for the first year of high school",
+      "content": "Descriptive text of the program"
+    },
+    {
+      "title": "Physics for the first year of high school",
+      "content": "Descriptive text of the program"
+    },
+    {
+      "title": "Arabic for the final year of middle school",
+      "content": "Descriptive text of the program"
+    },
+    {
+      "title": "English for the first year of high school",
+      "content": "Descriptive text of the program"
+    },
+    {
+      "title": "Science for the first year of high school",
+      "content": "Descriptive text of the program"
+    }
+  ]
+}

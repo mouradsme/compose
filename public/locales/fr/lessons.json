@@ -1,0 +1,9 @@
+{
+  "lessonTitle": "Leçon",
+  "lessonDescription": "Description de la leçon",
+  "instructorBio": "Bio de l'instructeur",
+  "notSubscribedMessage": "Vous n'êtes pas abonné, veuillez cliquer sur la tarification et choisir un plan pour continuer à apprendre",
+  "submitAnswer": "Soumettre la réponse",
+  "completedLesson": "Vous avez terminé avec succès {{lessonTitle}}, vous serez redirigé vers la prochaine leçon {{nextLessonTitle}}",
+  "completedCourse": "Vous avez terminé avec succès ce cours, vous serez redirigé vers la page des parcours d'apprentissage"
+}

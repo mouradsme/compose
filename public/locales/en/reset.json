@@ -1,0 +1,11 @@
+{
+  "resetPasswordTitle": "Reset your password",
+  "emailPlaceholder": "Email",
+  "passwordPlaceholder": "New password",
+  "submit": "Submit",
+  "backToLogin": "Go back to Login",
+  "invalidInputError": "Please enter a valid email and password, and check if your token is valid.",
+  "passwordResetSuccess": "Password reset successfully completed",
+  "validEmailError": "Please enter a valid email",
+  "passwordResetStarted": "Password reset started, check your email please"
+}

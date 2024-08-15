@@ -1,0 +1,145 @@
+{
+  "hero": {
+    "header": {
+      "prefix": "Siine,",
+      "mainText": "the Student's favourite studying room"
+    },
+    "description": "An educational platform that includes everything you need to succeed in your academic path",
+    "login": {
+      "google": "Continue with Google",
+      "facebook": "Continue with Facebook"
+    },
+    "contentDescription": "Over 1000+ course and unit study by trusted and qualified teachers for you"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What is an FAQ generator?",
+        "answer": "An FAQ generator is a tool that creates a list of frequently asked questions and answers from the content of your blog article, product documentation, or website."
+      },
+      {
+        "question": "Where can I edit my billing and shipping address?",
+        "answer": "If you created a new account after or while ordering you can edit both addresses (for billing and shipping) in your customer account."
+      },
+      {
+        "question": "Can I order a free sample copy of a magazine?",
+        "answer": "Unfortunately, we’re unable to offer free samples. As a retailer, we buy all magazines from their publishers at the regular trade price. However, you could contact the publisher directly."
+      },
+      {
+        "question": "Are unsold magazines sent back to the publisher?",
+        "answer": "We usually sell all copies of the magazines offered in our shop. Some publishers and distributors offer the retailer the option of returning any unsold magazines. However, because our range includes magazines from countries such as Australia, the USA and the United Kingdom, sending them back would involve considerable effort in terms of logistics and would also be very expensive. We therefore choose not to return any unsold magazines. At the same time, this allows us to also offer our customers older or out-of-print magazines."
+      }
+    ]
+  },
+  "features": {
+    "learnMore": "Learn more",
+    "findCourses": "Find all required Courses in one click",
+    "altFeatureTitle": "Feature Image",
+    "textWhiteFeatureTitle": "Feature Title",
+    "h1MakeStudying": "Make studying a part of your day less effort and more",
+    "intelligence": "intelligence",
+    "descriptionSimplified": "Simplified curricula and a unique user experience to enable you to arrange your educational path, prepare well for your exams, and",
+    "succeed": " succeed ",
+    "inPresentFuture": "in the present and the future.",
+    "features": {
+      "highSchoolCourse": {
+        "header": "High school course",
+        "title": "High school subjects and courses",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "qualifiedTeachers": {
+        "header": "Qualified teachers",
+        "title": "Qualified teachers in all level's",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "followUp": {
+        "header": "Follow-up",
+        "title": "Follow-up your educational path",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "scale": {
+        "header": "Scale",
+        "title": "Scale your level study",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    },
+    "teachers": {
+      "johnDoe": {
+        "name": "John Doe",
+        "job": "High School Teacher",
+        "bio": "John Doe has been teaching high school subjects for over 10 years. He is passionate about helping students succeed and achieve their full potential."
+      },
+      "janeSmith": {
+        "name": "Jane Smith",
+        "job": "College Professor",
+        "bio": "Jane Smith is a renowned college professor with a PhD in her field. She has published numerous research papers and is known for her innovative teaching methods."
+      },
+      "bobJohnson": {
+        "name": "Bob Johnson",
+        "job": "Educational Advisor",
+        "bio": "Bob Johnson has been advising students on their educational paths for over 20 years. He has a wealth of experience and knowledge to share."
+      },
+      "sarahLee": {
+        "name": "Sarah Lee",
+        "job": "Tutor",
+        "bio": "Sarah Lee is an experienced tutor who specializes in helping students improve their grades and understanding of difficult subjects."
+      }
+    }
+  },
+  "plans": {
+    "compareHeader": "Compare our plan's against the rest",
+    "description": "Our team designed and made this classroom to take you from start to finish. To understand with a simple explanation of your education program and get your success certificate",
+    "otherPlatforms": "Other Platforms",
+    "tryNow": "Try our program now",
+    "items": [
+      "lorem1 xs",
+      "lorem1 free",
+      "lorem1 with",
+      "lorem1 ga",
+      "lorem1q ",
+      "lorem1 sso "
+    ]
+  },
+  "sliders": {
+    "learnMore": "Learn more",
+    "findCourses": "Find all required Courses in one click",
+    "enrollNow": "Enroll now",
+    "selectCourseBenefits": "Select this course to get these benefits & sections"
+  },
+  "start": {
+    "getSuccessfulPath": "Get a successful path with Our courses and specializations",
+    "tryItNow": "Try it Now"
+  },
+  "courses": {
+    "moreThanStudents": "more than 2000 students use e-learn course",
+    "physics": {
+      "header": "Physics",
+      "title": "Physics subjects and courses",
+      "description": "Select this course to get these benefits & sections",
+      "benefits": ["lorem Physics", "lorem Physics", "lorem Physics"],
+      "extraBenefits": ["lorem Physics", "lorem Physics", "lorem Physics"]
+    },
+    "arabic": {
+      "header": "Arabic",
+      "title": "Arabic subjects and courses",
+      "description": "Select this course to get these benefits & sections",
+      "benefits": ["lorem Arabic1", "lorem Arabic2", "lorem Arabic3"],
+      "extraBenefits": ["lorem Arabic1", "lorem Arabic2", "lorem Arabic3"]
+    },
+    "math": {
+      "header": "Math",
+      "title": "Math subjects and courses",
+      "description": "Select this course to get these benefits & sections",
+      "benefits": ["lorem Math", "lorem Math", "lorem Math"],
+      "extraBenefits": ["lorem Math", "lorem Math", "lorem Math"]
+    },
+    "english": {
+      "header": "English",
+      "title": "English subjects and courses",
+      "description": "Select this course to get these benefits & sections",
+      "benefits": ["lorem English", "lorem English", "lorem English"],
+      "extraBenefits": ["lorem English", "lorem English", "lorem English"]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || process.env.NEXT_PUBLIC_BACKEND_URL_DEV;
+const ACCESS_TOKEN_NAME = 'siine_user_data';
+const ITEMS_PER_PAGE = parseInt('24', 10);
+const LOCALS = ['EN', 'AR', 'FR'];
+const HOME_PAGE_THUMBNAIL_VIDEO =
+  process.env.NEXT_PUBLIC_HOME_PAGE_THUMBNAIL_VIDEO ||
+  'https://www.youtube.com/watch?v=p0bwh0d4wU4';
+const RECAPTCHA_SITE_KEY = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY as string;
+
+export {
+  BACKEND_URL,
+  ACCESS_TOKEN_NAME,
+  ITEMS_PER_PAGE,
+  LOCALS,
+  HOME_PAGE_THUMBNAIL_VIDEO,
+  RECAPTCHA_SITE_KEY,
+};
+
+export default Object.freeze({
+  BACKEND_URL,
+  ACCESS_TOKEN_NAME,
+  ITEMS_PER_PAGE,
+  LOCALS,
+  HOME_PAGE_THUMBNAIL_VIDEO,
+  RECAPTCHA_SITE_KEY,
+});

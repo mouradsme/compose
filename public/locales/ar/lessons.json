@@ -1,0 +1,9 @@
+{
+  "lessonTitle": "الدرس",
+  "lessonDescription": "وصف الدرس",
+  "instructorBio": "سيرة المعلم الذاتية",
+  "notSubscribedMessage": "لست مشتركًا ، يرجى النقر على التسعير واختيار خطة لمتابعة التعلم",
+  "submitAnswer": "أرسل الإجابة",
+  "completedLesson": "لقد أكملت بنجاح {{lessonTitle}}, سيتم توجيهك إلى الدرس التالي {{nextLessonTitle}}",
+  "completedCourse": "لقد أكملت هذه الدورة بنجاح، سيتم توجيهك إلى صفحة مسارات التعلم"
+}

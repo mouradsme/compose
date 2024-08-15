@@ -1,0 +1,6 @@
+<svg id="pedestrian-child" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <path id="Path_11647" data-name="Path 11647" d="M26,16H17.468l-5-6H5a3,3,0,0,0-3,3v6a2,2,0,0,0,2,2v7a2,2,0,0,0,2,2h4a2,2,0,0,0,2-2V21H10v7H6V19H4V13a1,1,0,0,1,1-1h6.532l5,6H26a1,1,0,0,1,1,1v3H25v6H22V22H20v6a2,2,0,0,0,2,2h3a2,2,0,0,0,2-2V24a2,2,0,0,0,2-2V19a3,3,0,0,0-3-3Z" transform="translate(0 0)" fill="#7c8da6"/>
+  <path id="Path_11648" data-name="Path 11648" d="M23.5,15A3.5,3.5,0,1,1,27,11.5,3.5,3.5,0,0,1,23.5,15Zm0-5A1.5,1.5,0,1,0,25,11.5,1.5,1.5,0,0,0,23.5,10Z" transform="translate(0 0)" fill="#7c8da6"/>
+  <path id="Path_11649" data-name="Path 11649" d="M8,9a4,4,0,1,1,4-4A4,4,0,0,1,8,9ZM8,3a2,2,0,1,0,2,2A2,2,0,0,0,8,3Z" fill="#7c8da6"/>
+  <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" width="32" height="32" fill="none"/>
+</svg>

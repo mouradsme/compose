@@ -1,0 +1,11 @@
+{
+  "resetPasswordTitle": "Réinitialisez votre mot de passe",
+  "emailPlaceholder": "Email",
+  "passwordPlaceholder": "Nouveau mot de passe",
+  "submit": "Soumettre",
+  "backToLogin": "Retour à la connexion",
+  "invalidInputError": "Veuillez entrer un email et un mot de passe valides, et vérifiez si votre jeton est valide.",
+  "passwordResetSuccess": "Réinitialisation du mot de passe réussie",
+  "validEmailError": "Veuillez entrer un email valide",
+  "passwordResetStarted": "Réinitialisation du mot de passe commencée, veuillez vérifier votre email s'il vous plaît"
+}

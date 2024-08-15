@@ -1,0 +1,243 @@
+{ 
+  "getStarted": {
+    "ready": "Prêt à commencer?",
+    "description": "Découvrez un monde de connaissances et embarquez pour un voyage d'éclaircissement.",
+    "register": "Inscrivez-vous maintenant"
+  },
+  "footer": {
+    "rights": "Tous droits réservés pour 2023",
+    "email": "Email : contact@siine.dz"
+  },
+  "header": {
+    "loginInto": "Connectez-vous à",
+    "theAcademy": "l'académie",
+    "logout": "Déconnexion"
+  },
+  "Privacy": "Confidentialité",
+  "Discover": "Découvrir",
+  "About Us": "À propos",
+  "Learning Paths": "Parcours",
+  "Pricing": "Tarification",
+  "Learning path": "Parcours d'apprentissage",
+  "subscrptions": "Abonnements",
+  "Profile": "Profil",
+  "Parent part": "Partie parent",
+  "Courses path": "Chemin des cours",
+  "Courses": "Cours",
+  "Publish new course": "Publier un nouveau cours",
+  "Categories": "Catégories",
+  "Students": "Étudiants",
+  "Teachers": "Enseignants",
+  "Payment & check": "Paiement et vérification",
+  "Subscribtions": "Abonnements",
+  "Serial numbers": "Numéros de série",
+  "Methods": "Méthodes",
+  "Settings": "Paramètres",
+  "Profile manage": "Gérer le profil",
+  "Add Admin": "Ajouter un administrateur",
+  "Admins list": "Liste des administrateurs",
+  "submit": "Soumettre",
+  "continueWithGoogle": "Continuer avec Google",
+  "continueWithFacebook": "Continuer avec Facebook",
+  "collapse": "Réduire",
+  "readMore": "Lire la suite",
+  "save": "Enregistrer",
+  "add": "Ajouter",
+  "validation": {
+    "fullName": {
+      "typeError": "Veuillez entrer un nom complet valide",
+      "required": "Le nom complet est requis",
+      "min": "Le nom complet doit comporter au moins 6 caractères",
+      "max": "Le nom complet ne peut pas contenir plus de 120 caractères"
+    },
+    "email": {
+      "typeError": "Veuillez entrer un email valide",
+      "required": "L'email est requis",
+      "min": "L'email doit comporter au moins 8 caractères",
+      "max": "L'email ne peut pas contenir plus de 120 caractères"
+    },
+    "password": {
+      "typeError": "Veuillez entrer un mot de passe valide",
+      "min": "Le mot de passe doit comporter au moins 8 caractères",
+      "max": "Le mot de passe ne peut pas contenir plus de 150 caractères",
+      "required": "Le mot de passe est requis"
+    },
+    "phoneNumber": {
+      "typeError": "Le numéro de téléphone n'est pas valide"
+    },
+    "birthday": {
+      "invalidFormat": "Format de date invalide. Veuillez utiliser 'DD-MM-YYYY' ou 'MM-DD-YYYY'",
+      "required": "La date de naissance est requise",
+      "min": "La date de naissance doit comporter au moins 10 caractères",
+      "max": "La date de naissance ne peut pas contenir plus de 11 caractères"
+    },
+    "communeId": {
+      "typeError": "Veuillez entrer un ID de commune valide",
+      "required": "La commune ne peut pas être nulle"
+    },
+    "title": {
+      "typeError": "Veuillez saisir un titre valide",
+      "required": "Le titre est requis"
+    },
+    "shortDescription": {
+      "typeError": "Veuillez entrer une courte description valide",
+      "required": "La courte description est requise"
+    },
+    "description": {
+      "typeError": "Veuillez saisir une description valide",
+      "required": "La description est requise"
+    },
+    "objectives": {
+      "typeError": "Veuillez entrer des objectifs valides",
+      "required": "Un objectif est requis",
+      "min": "Au moins un objectif est requis"
+    },
+    "price": {
+      "typeError": "Veuillez entrer un prix valide",
+      "required": "Le prix est requis",
+      "min": "Le prix doit être positif"
+    },
+    "instructors": {
+      "typeError": "Veuillez saisir des instructeurs valides",
+      "required": "L'identifiant de l'instructeur est requis",
+      "min": "Au moins un instructeur est requis"
+    },
+    "selectedLevel": {
+      "required": "Le niveau est requis"
+    },
+    "selectedYear": {
+      "required": "L'année est requise"
+    },
+    "selectedPath": {
+      "requiredHigh": "Un chemin est requis lorsque le niveau est le lycée",
+      "oneOf": "Seul le niveau du lycée peut avoir des chemins"
+    },
+    "selectedSubject": {
+      "required": "La matière est requise"
+    },
+    "sectionOrder": {
+      "typeError": "Veuillez saisir un ordre de section valide",
+      "required": "L'ordre de la section est requis"
+    },
+    "lessonOrder": {
+      "typeError": "Veuillez saisir un ordre de leçon valide",
+      "required": "L'ordre de la leçon est requis"
+    },
+    "elementOrder": {
+      "typeError": "Veuillez saisir un ordre d'élément valide",
+      "integer": "L'ordre doit être un entier",
+      "required": "L'ordre est requis"
+    },
+    "content": {
+      "typeError": "Veuillez saisir un contenu valide",
+      "url": "URL invalide",
+      "required": "Le contenu est requis"
+    },
+    "durationInSeconds": {
+      "typeError": "Veuillez saisir une durée valide (en secondes)",
+      "integer": "La durée doit être un entier",
+      "required": "La durée est requise"
+    },
+    "isFree": {
+      "required": "La gratuité est requise"
+    },
+    "suggestedAnswers": {
+      "arrayTypeError": "Les réponses suggérées doivent être un tableau",
+      "min": "Au moins deux réponses suggérées sont requises",
+      "required": "Les réponses suggérées sont requises",
+      "answer": {
+        "typeError": "La réponse doit être un texte",
+        "required": "La réponse est requise"
+      },
+      "isCorrect": {
+        "typeError": "is Correct doit être vrai ou faux",
+        "required": "is Correct est requis"
+      }
+    },
+    "language": {
+      "required": "La langue est requise",
+      "typeError": "La langue doit être du texte"
+    },
+    "newPassword": {
+      "required": "Un nouveau mot de passe est requis",
+      "min": "Le nouveau mot de passe doit comporter au moins 8 caractères",
+      "max": "Le nouveau mot de passe ne peut pas contenir plus de 150 caractères",
+      "typeError": "Le nouveau mot de passe doit être du texte"
+    },
+    "tagType": {
+      "required": "Le type de tag est requis",
+      "typeError": "Le type de tag doit être du texte"
+    },
+    "translations": {
+      "required": "Les traductions sont requises",
+      "typeError": "Les traductions doivent être un tableau",
+      "min": "Toutes les traductions sont requises: ar, fr et en"
+    },
+    "parentTagId": {
+      "typeError": "L'ID de tag parent doit être du texte"
+    },
+    "id": {
+      "required": "L'ID est requis",
+      "typeError": "L'ID doit être du texte"
+    },
+    "firstName": {
+      "required": "Le prénom est requis",
+      "typeError": "Le prénom doit être du texte"
+    },
+    "lastName": {
+      "required": "Le nom de famille est requis",
+      "typeError": "Le nom de famille doit être du texte"
+    },
+    "phone": {
+      "required": "Le numéro de téléphone est requis",
+      "invalid": "Le numéro de téléphone n'est pas valide",
+      "typeError": "Le numéro de téléphone doit être du texte"
+    },
+    "bio": {
+      "required": "La biographie est requise",
+      "typeError": "La biographie doit être du texte"
+    },
+    "tagsIds": {
+      "typeError": "Chaque ID de tag doit être du texte"
+    },
+    "features": {
+      "required": "La fonctionnalité est requise",
+      "typeError": "La fonctionnalité doit être du texte"
+    },
+    "durationInDays": {
+      "required": "La durée en jours est requise",
+      "typeError": "La durée doit être un nombre"
+    },
+    "createdAt": {
+      "required": "La date de création est requise",
+      "typeError": "La date de création doit être du texte"
+    },
+    "updatedAt": {
+      "required": "La date de mise à jour est requise",
+      "typeError": "La date de mise à jour doit être du texte"
+    },
+    "quantity": {
+      "required": "La quantité est requise",
+      "positive": "La quantité doit être un nombre positif",
+      "integer": "La quantité doit être un entier",
+      "typeError": "La quantité doit être un nombre"
+    },
+    "expireAfterDays": {
+      "required": "L'expiration après un certain nombre de jours est requise",
+      "positive": "L'expiration après un certain nombre de jours doit être un nombre positif",
+      "integer": "L'expiration après un certain nombre de jours doit être un entier",
+      "typeError": "L'expiration après un certain nombre de jours doit être un nombre"
+    },
+    "subscriptionPlanId": {
+      "required": "L'ID du plan d'abonnement est requis",
+      "typeError": "L'ID du plan d'abonnement doit être du texte"
+    },
+    "name": {
+      "required": "Le nom est requis",
+      "typeError": "Le nom doit être du texte"
+    },
+    "tags": {
+      "required": "Les balises telles que l'année d'étude, le parcours de formation et le niveau d'études sont obligatoires."
+    }
+  }
+}

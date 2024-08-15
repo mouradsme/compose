@@ -1,0 +1,44 @@
+{
+  "whatYouNeed": "De quoi avez-vous besoin de nous?",
+  "buildApproach": "Construisez la bonne approche pour votre éducation",
+  "toEducation": "pour votre éducation",
+  "reapSuccess": "et récoltez votre succès",
+  "viewPrograms": "Voir nos programmes",
+  "siine": "Siine",
+  "siineDescription": "C'est une plateforme éducative qui propose des programmes académiques de manière concise",
+  "aboutUsDescription": "Lorem ipsum douleur assise à côté, conseteteur sadipscing élite, mais diam nonumy eirmod temporaire invidunt laboratoire et douleur grande aliquyam érat, mais diam voluptua. A vrai dire eos et accusam et juste duo douleurs et ea rebum. Stet clita kasd gubergren, pas de mer takimata sanctus est Lorem ipsum douleur assise à côté. Lorem ipsum douleur assise à côté, conseteteur sadipscing élite, mais diam nonumy eirmod temporaire invidunt laboratoire et douleur grande aliquyam érat, mais diam voluptua.",
+  "makesStudying": "Rendre l'étude une partie de votre journée avec moins d'effort et plus d'intelligence",
+  "simplifiedCurricula": "Des programmes simplifiés et une expérience utilisateur unique pour vous permettre d'organiser votre parcours éducatif, de bien vous préparer à vos examens, maintenant et à l'avenir.",
+  "whoCanApply": "Qui peut postuler?",
+  "academicStudent": "Étudiant académique",
+  "findPrograms": "Ils trouvent de nombreux programmes académiques",
+  "shortDescription": "Lorem ipsum douleur assise à côté, sadipscing élite, mais diam nonumy",
+  "learnMore": "En savoir plus",
+  "academicTeachers": "Professeurs académiques",
+  "providingMaterials": "Fournir des matériaux d'étude de la manière la plus simple",
+  "explorePrograms": "Découvrez nos programmes",
+  "programDescription": "Lorem ipsum douleur assise à côté, sadipscing élite, mais diam nonumy",
+  "register": "S'inscrire",
+  "programs": [
+    {
+        "title": "Mathématiques pour la première année du lycée",
+        "content": "Texte descriptif du programme"
+    },
+    {
+        "title": "Physique pour la première année du lycée",
+        "content": "Texte descriptif du programme"
+    },
+    {
+        "title": "Arabe pour la dernière année du collège",
+        "content": "Texte descriptif du programme"
+    },
+    {
+        "title": "Anglais pour la première année du lycée",
+        "content": "Texte descriptif du programme"
+    },
+    {
+        "title": "Sciences pour la première année du lycée",
+        "content": "Texte descriptif du programme"
+    }
+  ]
+}

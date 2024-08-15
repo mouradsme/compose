@@ -1,0 +1,9 @@
+{
+  "lessonTitle": "Lesson",
+  "lessonDescription": "Lesson description",
+  "instructorBio": "Instructor Bio",
+  "notSubscribedMessage": "You are not subscribed please click on pricing and choose a plan to continue learning",
+  "submitAnswer": "Submit answer",
+  "completedLesson": "You have successfully completed {{lessonTitle}}, you will be redirected to the next lesson {{nextLessonTitle}}",
+  "completedCourse": "You have successfully completed This course, you will be redirected to learning paths page"
+}

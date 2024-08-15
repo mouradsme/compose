@@ -1,0 +1,243 @@
+{ 
+  "getStarted": {
+    "ready": "Ready to Get Started?",
+    "description": "Discover a world of knowledge and embark on a journey of enlightenment.",
+    "register": "Register now"
+  },
+  "footer": {
+    "rights": "All rights saved for 2023",
+    "email": "Email : contact@siine.dz"
+  },
+  "header": {
+    "loginInto": "Login into",
+    "theAcademy": "the academy",
+    "logout": "Logout"
+  },
+  "privacy": "Privacy",
+  "Discover": "Discover",
+  "About Us": "About Us",
+  "Learning Paths": "Learning Paths",
+  "Pricing": "Pricing",
+  "Learning path": "Learning path",
+  "subscrptions": "Subscriptions",
+  "Profile": "Profile",
+  "Parent part": "Parent part",
+  "Courses path": "Courses path",
+  "Courses": "Courses",
+  "Publish new course": "Publish new course",
+  "Categories": "Categories",
+  "Students": "Students",
+  "Teachers": "Teachers",
+  "Payment & check": "Payment & check",
+  "Subscribtions": "Subscriptions",
+  "Serial numbers": "Serial numbers",
+  "Methods": "Methods",
+  "Settings": "Settings",
+  "Profile manage": "Profile manage",
+  "Add Admin": "Add Admin",
+  "Admins list": "Admins list",
+  "submit": "Submit",
+  "continueWithGoogle": "Continue with Google",
+  "continueWithFacebook": "Continue with Facebook",
+  "collapse": "Collapse",
+  "readMore": "Read more",
+  "save": "Save",
+  "add": "Add",
+  "validation": {
+    "fullName": {
+      "typeError": "Please enter a valid full name",
+      "required": "Full name is required",
+      "min": "Full name must be at least 6 characters",
+      "max": "Full name cannot contain more than 120 characters"
+    },
+    "email": {
+      "typeError": "Please enter a valid email",
+      "required": "Email is required",
+      "min": "Email must be at least 8 characters",
+      "max": "Email cannot contain more than 120 characters"
+    },
+    "password": {
+      "typeError": "Please enter a valid password",
+      "min": "Password must be at least 8 characters",
+      "max": "Password cannot contain more than 150 characters",
+      "required": "Password is required"
+    },
+    "phoneNumber": {
+      "typeError": "Phone number is not valid"
+    },
+    "birthday": {
+      "invalidFormat": "Invalid date format. Please use 'DD-MM-YYYY' or 'MM-DD-YYYY'",
+      "required": "Birthday is required",
+      "min": "Birthday must be at least 10 characters",
+      "max": "Birthday cannot contain more than 11 characters"
+    },
+    "communeId": {
+      "typeError": "Please enter a valid commune ID",
+      "required": "Commune cannot be null"
+    },
+    "title": {
+      "typeError": "Please enter a valid Title",
+      "required": "Title is required"
+    },
+    "shortDescription": {
+      "typeError": "Please enter a valid Short Description",
+      "required": "Short Description is required"
+    },
+    "description": {
+      "typeError": "Please enter a valid Description",
+      "required": "Description is required"
+    },
+    "objectives": {
+      "typeError": "Please enter valid Objectives",
+      "required": "Objective is required",
+      "min": "At least one objective is required"
+    },
+    "price": {
+      "typeError": "Please enter a valid Price",
+      "required": "Price is required",
+      "min": "Price should be positive"
+    },
+    "instructors": {
+      "typeError": "Please enter valid Instructors",
+      "required": "Instructor ID is required",
+      "min": "At least one instructor is required"
+    },
+    "selectedLevel": {
+      "required": "Level is required"
+    },
+    "selectedYear": {
+      "required": "Year is required"
+    },
+    "selectedPath": {
+      "requiredHigh": "Path is required when level is High school",
+      "oneOf": "Only High school level can have paths"
+    },
+    "selectedSubject": {
+      "required": "Subject is required"
+    },
+    "sectionOrder": {
+      "typeError": "Please enter a valid Section Order",
+      "required": "Section order is required"
+    },
+    "lessonOrder": {
+      "typeError": "Please enter a valid Lesson Order",
+      "required": "Lesson order is required"
+    },
+    "elementOrder": {
+      "typeError": "Please enter a valid Element Order",
+      "integer": "Order must be an integer",
+      "required": "Order is required"
+    },
+    "content": {
+      "typeError": "Please enter a valid Content",
+      "url": "Invalid URL",
+      "required": "Content is required"
+    },
+    "durationInSeconds": {
+      "typeError": "Please enter a valid Duration (in seconds)",
+      "integer": "Duration must be an integer",
+      "required": "Duration is required"
+    },
+    "isFree": {
+      "required": "isFree is required"
+    },
+    "suggestedAnswers": {
+      "arrayTypeError": "Suggested answers must be an array",
+      "min": "At least two suggested answers are required",
+      "required": "Suggested answers are required",
+      "answer": {
+        "typeError": "Answer must be a text",
+        "required": "Answer is required"
+      },
+      "isCorrect": {
+        "typeError": "is Correct must be true or false",
+        "required": "is Correct is required"
+      }
+    },
+    "language": {
+      "required": "Language is required",
+      "typeError": "Language must be a text"
+    },
+    "newPassword": {
+      "required": "New password is required",
+      "min": "New password must be at least 8 characters",
+      "max": "New password cannot contain more than 150 characters",
+      "typeError": "New password must be a text"
+    },
+    "tagType": {
+      "required": "Tag type is required",
+      "typeError": "Tag type must be text"
+    },
+    "translations": {
+      "required": "Translations are required",
+      "typeError": "Translations must be an array",
+      "min": "All the translations are required ar, fr, and en"
+    },
+    "parentTagId": {
+      "typeError": "Parent tag ID must be text"
+    },
+    "id": {
+      "required": "ID is required",
+      "typeError": "ID must be text"
+    },
+    "firstName": {
+      "required": "First name is required",
+      "typeError": "First name must be text"
+    },
+    "lastName": {
+      "required": "Last name is required",
+      "typeError": "Last name must be text"
+    },
+    "phone": {
+      "required": "Phone number is required",
+      "invalid": "Phone number is not valid",
+      "typeError": "Phone number must be text"
+    },
+    "bio": {
+      "required": "Bio is required",
+      "typeError": "Bio must be text"
+    },
+    "tagsIds": {
+      "typeError": "Each tag ID must be text"
+    },
+    "features": {
+      "required": "Feature is required",
+      "typeError": "Feature must be text"
+    },
+    "durationInDays": {
+      "required": "Duration in days is required",
+      "typeError": "Duration must be a number"
+    },
+    "createdAt": {
+      "required": "Creation date is required",
+      "typeError": "Creation date must be text"
+    },
+    "updatedAt": {
+      "required": "Update date is required",
+      "typeError": "Update date must be text"
+    },
+    "quantity": {
+      "required": "Quantity is required",
+      "positive": "Quantity must be a positive number",
+      "integer": "Quantity must be an integer",
+      "typeError": "Quantity must be a number"
+    },
+    "expireAfterDays": {
+      "required": "Expire after days is required",
+      "positive": "Expire after days must be a positive number",
+      "integer": "Expire after days must be an integer",
+      "typeError": "Expire after days must be a number"
+    },
+    "subscriptionPlanId": {
+      "required": "Subscription Plan ID is required",
+      "typeError": "Subscription Plan ID must be text"
+    },
+    "name": {
+      "required": "Name is required",
+      "typeError": "Name must be text"
+    },
+    "tags": {
+      "required":  "Tags like study year, program path, and academic level are required."
+    }
+  }
+}

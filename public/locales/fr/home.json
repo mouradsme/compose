@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "header": {
+      "prefix": "Siine,",
+      "mainText": "la salle d'étude préférée des étudiants"
+    },
+    "description": "Une plateforme éducative qui comprend tout ce dont vous avez besoin pour réussir votre parcours académique",
+    "login": {
+      "google": "Continuer avec Google",
+      "facebook": "Continuer avec Facebook"
+    },
+    "contentDescription": "Plus de 1000 cours et unités d'étude par des enseignants de confiance et qualifiés pour vous"
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "questions": [
+      {
+        "question": "Qu'est-ce qu'un générateur de FAQ?",
+        "answer": "Un générateur de FAQ est un outil qui crée une liste de questions fréquemment posées et de réponses à partir du contenu de votre article de blog, de la documentation de votre produit ou de votre site web."
+      },
+      {
+        "question": "Où puis-je modifier mon adresse de facturation et d'expédition?",
+        "answer": "Si vous avez créé un nouveau compte après ou pendant la commande, vous pouvez modifier les deux adresses (de facturation et d'expédition) dans votre compte client."
+      },
+      {
+        "question": "Puis-je commander un échantillon gratuit d'un magazine?",
+        "answer": "Malheureusement, nous ne pouvons pas offrir d'échantillons gratuits. En tant que détaillant, nous achetons tous les magazines auprès de leurs éditeurs au prix normal. Cependant, vous pourriez contacter l'éditeur directement."
+      },
+      {
+        "question": "Les magazines invendus sont-ils renvoyés à l'éditeur?",
+        "answer": "Nous vendons généralement tous les exemplaires des magazines proposés dans notre boutique. Certains éditeurs et distributeurs offrent au détaillant la possibilité de retourner tout magazine invendu. Cependant, comme notre gamme comprend des magazines de pays comme l'Australie, les États-Unis et le Royaume-Uni, les renvoyer nécessiterait beaucoup d'efforts en termes de logistique et serait également très coûteux. Nous choisissons donc de ne retourner aucun magazine invendu. En même temps, cela nous permet également de proposer à nos clients des magazines plus anciens ou épuisés."
+      }
+    ]
+  },
+  "features": {
+    "learnMore": "Apprendre encore plus",
+    "findCourses": "Trouvez tous les cours requis en un clic",
+    "altFeatureTitle": "Image de la caractéristique",
+    "textWhiteFeatureTitle": "Titre de la caractéristique",
+    "h1MakeStudying": "Rendez l'étude une partie de votre journée moins d'effort et plus de",
+    "intelligence": "intelligence",
+    "descriptionSimplified": "Des programmes simplifiés et une expérience utilisateur unique pour vous permettre d'organiser votre parcours éducatif, de bien vous préparer pour vos examens, et de",
+    "succeed": " réussir ",
+    "inPresentFuture": "dans le présent et dans le futur.",
+    "features": {
+      "highSchoolCourse": {
+          "header": "Cours de lycée",
+          "title": "Matières et cours de lycée",
+          "description": "Bienvenue dans notre application. Nous espérons que vous aurez une expérience agréable."
+      },
+      "qualifiedTeachers": {
+          "header": "Enseignants qualifiés",
+          "title": "Enseignants qualifiés à tous les niveaux",
+          "description": "Bienvenue dans notre application. Nous espérons que vous aurez une expérience agréable."
+      },
+      "followUp": {
+          "header": "Suivi",
+          "title": "Suivez votre parcours éducatif",
+          "description": "Bienvenue dans notre application. Nous espérons que vous aurez une expérience agréable."
+      },
+      "scale": {
+          "header": "Échelle",
+          "title": "Évaluez votre niveau d'études",
+          "description": "Bienvenue dans notre application. Nous espérons que vous aurez une expérience agréable."
+      }
+    },
+    "teachers": {
+        "johnDoe": {
+            "name": "John Doe",
+            "job": "Professeur de lycée",
+            "bio": "John Doe enseigne les matières du lycée depuis plus de 10 ans. Il est passionné par l'aide aux étudiants pour réussir et atteindre leur plein potentiel."
+        },
+        "janeSmith": {
+            "name": "Jane Smith",
+            "job": "Professeur d'université",
+            "bio": "Jane Smith est une professeure d'université renommée avec un doctorat dans son domaine. Elle a publié de nombreux articles de recherche et est connue pour ses méthodes d'enseignement innovantes."
+        },
+        "bobJohnson": {
+            "name": "Bob Johnson",
+            "job": "Conseiller éducatif",
+            "bio": "Bob Johnson conseille les étudiants sur leur parcours éducatif depuis plus de 20 ans. Il possède une richesse d'expérience et de connaissances à partager."
+        },
+        "sarahLee": {
+            "name": "Sarah Lee",
+            "job": "Tuteur",
+            "bio": "Sarah Lee est une tutrice expérimentée qui se spécialise dans l'aide aux étudiants pour améliorer leurs notes et leur compréhension des matières difficiles."
+        }
+    }
+  },
+  "plans": {
+    "compareHeader": "Comparez nos plans avec les autres",
+    "description": "Notre équipe a conçu cette salle de classe pour vous emmener du début à la fin. Pour comprendre avec une explication simple de votre programme éducatif et obtenir votre certificat de réussite",
+    "otherPlatforms": "Autres plateformes",
+    "tryNow": "Essayez notre programme maintenant",
+    "items": [
+      "lorem1 xs",
+      "lorem1 gratuit",
+      "lorem1 avec",
+      "lorem1 ga",
+      "lorem1q ",
+      "lorem1 sso "
+    ]
+  },
+  "sliders": {
+    "learnMore": "En savoir plus",
+    "findCourses": "Trouvez tous les cours requis en un clic",
+    "enrollNow": "Inscrivez-vous maintenant",
+    "selectCourseBenefits": "Sélectionnez ce cours pour obtenir ces avantages & sections"
+  },
+  "courses": {
+    "moreThanStudents": "plus de 2000 étudiants utilisent le cours e-learn",
+    "physics": {
+      "header": "Physique",
+      "title": "Sujets et cours de physique",
+      "description": "Sélectionnez ce cours pour obtenir ces avantages & sections",
+      "benefits": ["lorem Physique", "lorem Physique", "lorem Physique"],
+      "extraBenefits": ["lorem Physique", "lorem Physique", "lorem Physique"]
+    },
+    "arabic": {
+      "header": "Arabe",
+      "title": "Sujets et cours d'arabe",
+      "description": "Sélectionnez ce cours pour obtenir ces avantages & sections",
+      "benefits": ["lorem Arabe1", "lorem Arabe2", "lorem Arabe3"],
+      "extraBenefits": ["lorem Arabe1", "lorem Arabe2", "lorem Arabe3"]
+    },
+    "math": {
+      "header": "Mathématiques",
+      "title": "Sujets et cours de mathématiques",
+      "description": "Sélectionnez ce cours pour obtenir ces avantages & sections",
+      "benefits": ["lorem Maths", "lorem Maths", "lorem Maths"],
+      "extraBenefits": ["lorem Maths", "lorem Maths", "lorem Maths"]
+    },
+    "english": {
+      "header": "Anglais",
+      "title": "Sujets et cours d'anglais",
+      "description": "Sélectionnez ce cours pour obtenir ces avantages & sections",
+      "benefits": ["lorem Anglais", "lorem Anglais", "lorem Anglais"],
+      "extraBenefits": ["lorem Anglais", "lorem Anglais", "lorem Anglais"]
+    }
+  }
+}

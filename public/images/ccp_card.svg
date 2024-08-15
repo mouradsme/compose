@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.304" height="21.049" viewBox="0 0 33.304 21.049">
+  <g id="Group_2547" data-name="Group 2547" transform="translate(-929.5 -1422.801)">
+    <rect id="Rectangle_3663" data-name="Rectangle 3663" width="33.304" height="21.049" rx="2" transform="translate(929.5 1422.801)" fill="#f1f2f2"/>
+    <rect id="Rectangle_3664" data-name="Rectangle 3664" width="10.08" height="0.354" transform="translate(933.114 1439.329)" fill="#d4d8d8"/>
+    <rect id="Rectangle_3665" data-name="Rectangle 3665" width="14.935" height="0.354" transform="translate(933.114 1434.295)" fill="#d4d8d8"/>
+    <rect id="Rectangle_3666" data-name="Rectangle 3666" width="14.935" height="0.354" transform="translate(933.063 1432.505)" fill="#d4d8d8"/>
+    <rect id="Rectangle_3667" data-name="Rectangle 3667" width="14.935" height="0.354" transform="translate(933.063 1430.753)" fill="#d4d8d8"/>
+    <rect id="Rectangle_3668" data-name="Rectangle 3668" width="14.935" height="0.354" transform="translate(933.063 1428.795)" fill="#d4d8d8"/>
+    <rect id="Rectangle_3669" data-name="Rectangle 3669" width="10.08" height="0.354" transform="translate(933.114 1436.328)" fill="#d4d8d8"/>
+    <rect id="Rectangle_3670" data-name="Rectangle 3670" width="10.08" height="0.354" transform="translate(933.114 1426.968)" fill="#d4d8d8"/>
+    <rect id="Rectangle_3671" data-name="Rectangle 3671" width="10.08" height="0.354" transform="translate(933.114 1437.894)" fill="#d4d8d8"/>
+    <path id="Path_11126" data-name="Path 11126" d="M165.82,674.648h.007l-.152-.735h-.007a2.362,2.362,0,0,0-1.874,3l.658-.075a1.724,1.724,0,0,1,1.369-2.191" transform="translate(793.068 762.163)" fill="#e5e1e1"/>
+    <path id="Path_11127" data-name="Path 11127" d="M80.6,586.695l.08-.008-.152-.735-.08.008c-1.951.222-3.171,2.175-2.72,4.354l.658-.075a2.79,2.79,0,0,1,2.214-3.544" transform="translate(877.961 848.896)" fill="#e5e1e1"/>
+    <path id="Path_11128" data-name="Path 11128" d="M3.815,501.182l.066-.007-.152-.735-.066.007c-2.54.289-4.129,2.831-3.541,5.668l.658-.075c-.5-2.431.858-4.611,3.035-4.858" transform="translate(954.513 933.214)" fill="#e5e1e1"/>
+    <text id="CCP" transform="translate(953 1429)" fill="#7a7d84" font-size="3" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">CCP</tspan></text>
+  </g>
+</svg>

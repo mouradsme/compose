@@ -1,0 +1,13 @@
+<svg id="Group_12311" data-name="Group 12311" xmlns="http://www.w3.org/2000/svg" width="76.583" height="81.733" viewBox="0 0 76.583 81.733">
+  <path id="Path_12320" data-name="Path 12320" d="M0,0H60.167s-1.842,30.239,0,48.483S72.434,72.976,72.434,72.976H24.082s-12-.583-18.022-8.025S0,43.208,0,43.208Z" transform="translate(0 8.757)" fill="#004cdf"/>
+  <ellipse id="Ellipse_221" data-name="Ellipse 221" cx="20.863" cy="20.09" rx="20.863" ry="20.09" transform="translate(34.856 0.685)" fill="#fff"/>
+  <path id="Ellipse_221_-_Outline" data-name="Ellipse 221 - Outline" d="M20.433,2.919A17.514,17.514,0,1,0,37.947,20.433,17.534,17.534,0,0,0,20.433,2.919m0-2.919A20.433,20.433,0,1,1,0,20.433,20.433,20.433,0,0,1,20.433,0Z" transform="translate(35.028)" fill="#fff"/>
+  <path id="Line_120" data-name="Line 120" d="M23.352,2.419H0V-.5H23.352Z" transform="translate(7.298 20.933)" fill="rgba(245,245,245,0.94)"/>
+  <path id="Line_121" data-name="Line 121" d="M26.271,2.419H0V-.5H26.271Z" transform="translate(7.298 29.69)" fill="rgba(245,245,245,0.94)"/>
+  <path id="Line_122" data-name="Line 122" d="M32.109,2.419H0V-.5H32.109Z" transform="translate(10.217 38.447)" fill="rgba(245,245,245,0.94)"/>
+  <path id="Line_123" data-name="Line 123" d="M37.947,2.419H0V-.5H37.947Z" transform="translate(13.136 47.204)" fill="rgba(245,245,245,0.94)"/>
+  <path id="Line_124" data-name="Line 124" d="M17.514,2.419H0V-.5H17.514Z" transform="translate(13.136 67.638)" fill="rgba(245,245,245,0.94)"/>
+  <circle id="Ellipse_191" data-name="Ellipse 191" cx="17.772" cy="17.772" r="17.772" transform="translate(37.947 2.231)" fill="#2ccaa9"/>
+  <path id="Ellipse_191_-_Outline" data-name="Ellipse 191 - Outline" d="M17.514,2.919a14.6,14.6,0,1,0,14.6,14.6,14.612,14.612,0,0,0-14.6-14.6m0-2.919A17.514,17.514,0,1,1,0,17.514,17.514,17.514,0,0,1,17.514,0Z" transform="translate(37.947 2.919)" fill="#399"/>
+  <path id="Vector" d="M4.982,10.746a1.455,1.455,0,0,1-1.032-.427l-4.3-4.3L1.711,3.951,4.983,7.223l7.59-7.577,2.062,2.066L6.013,10.319A1.455,1.455,0,0,1,4.982,10.746Z" transform="translate(48.757 15.451)" fill="#fff"/>
+</svg>

@@ -1,0 +1,53 @@
+{
+  "title": "Politique de confidentialité",
+  "introduction": {
+    "title": "Politique de confidentialité",
+    "subtitle": "Introduction",
+    "content": "Bienvenue sur Siine, où nous accordons une grande importance à votre vie privée et à la sécurité de vos données. Cette politique décrit comment nous gérons et protégeons vos données personnelles sur notre plateforme d'apprentissage en ligne."
+  },
+  "informationCollection": {
+    "title": "Collecte d'informations",
+    "subtitle": "Introduction",
+    "content": "Siine collecte des informations personnelles telles que les noms, les adresses e-mail et d'autres détails pertinents lors de l'inscription au compte et de l'utilisation de l'application. Ces informations sont cruciales pour offrir une expérience d'apprentissage personnalisée."
+  },
+  "useOfInformation": {
+    "title": "Utilisation des informations",
+    "subtitle": "Introduction",
+    "content": "Nous utilisons vos données pour personnaliser votre parcours éducatif, offrir un support client et répondre aux questions, améliorer et innover notre plateforme et le contenu des cours, ainsi que pour communiquer des mises à jour essentielles et des informations sur Siine. Vos informations personnelles ne sont pas vendues ou louées à des tiers."
+  },
+  "dataSecurityAndStorage": {
+    "title": "Sécurité des données et stockage",
+    "subtitle": "Introduction",
+    "content": "Protéger vos données est un engagement clé chez Siine. Toutes les données personnelles sont stockées de manière sécurisée dans des centres de données situés en Algérie, assurant ainsi que vos informations sont gérées à l'intérieur du pays."
+  },
+  "userRights": {
+    "title": "Droits des utilisateurs",
+    "subtitle": "Introduction",
+    "content": "Les utilisateurs ont le droit d'accéder, de mettre à jour ou de supprimer leurs informations personnelles. Veuillez nous contacter pour exercer ces droits."
+  },
+  "childrensPrivacy": {
+    "title": "Vie privée des enfants",
+    "subtitle": "Introduction",
+    "content": "Siine n'est pas conçu pour les enfants de moins de 13 ans. Nous ne collectons délibérément aucune information personnelle auprès des enfants de ce groupe d'âge."
+  },
+  "policyChanges": {
+    "title": "Changements dans la politique",
+    "subtitle": "Introduction",
+    "content": "Nous pouvons mettre à jour cette politique de confidentialité selon les besoins. Les changements seront publiés sur cette page."
+  },
+  "courseContentDisclaimer": {
+    "title": "Avertissement spécifique sur le contenu des cours",
+    "subtitle": "Introduction",
+    "content": "Tous les matériaux de cours sur Siine sont la propriété exclusive et protégée par le droit d'auteur de Siine. Le téléchargement non autorisé, la redistribution ou l'utilisation en dehors de Siine sont strictement interdits et peuvent entraîner des poursuites judiciaires."
+  },
+  "governingLaw": {
+    "title": "Loi applicable",
+    "subtitle": "Introduction",
+    "content": "Cette politique est régie par les lois de l'Algérie. Les litiges, le cas échéant, seront résolus sous la juridiction algérienne."
+  },
+  "contactInformation": {
+    "title": "Coordonnées",
+    "subtitle": "Introduction",
+    "content": "Pour des questions ou des préoccupations concernant notre politique de confidentialité, contactez-nous à : Email: contact@siinedz.com WhatsApp: +213559547338"
+  }
+}

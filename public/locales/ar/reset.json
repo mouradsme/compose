@@ -1,0 +1,11 @@
+{
+  "resetPasswordTitle": "إعادة تعيين كلمة المرور",
+  "emailPlaceholder": "البريد الإلكتروني",
+  "passwordPlaceholder": "كلمة المرور الجديدة",
+  "submit": "إرسال",
+  "backToLogin": "العودة إلى تسجيل الدخول",
+  "invalidInputError": "يرجى إدخال بريد إلكتروني وكلمة مرور صالحين، وتحقق من صحة الرمز المميز الخاص بك.",
+  "passwordResetSuccess": "تم إعادة تعيين كلمة المرور بنجاح",
+  "validEmailError": "يرجى إدخال بريد إلكتروني صالح",
+  "passwordResetStarted": "بدأ إعادة تعيين كلمة المرور، يرجى التحقق من بريدك الإلكتروني"
+}
