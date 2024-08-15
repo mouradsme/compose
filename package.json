@@ -3,12 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "postinstall": "npx husky install",
     "dev": "cross-env NODE_OPTIONS=--inspect NODE_TLS_REJECT_UNAUTHORIZED=0 next dev",
     "build": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 next build",
     "start": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 next start",
     "lint": "next lint",
-    "prepare": "npx husky add .husky/pre-commit \"npm run lint \"",
     "generate-data": "tsc scripts/generateData/index.ts && node scripts/generateData/index.js"
   },
   "dependencies": {
