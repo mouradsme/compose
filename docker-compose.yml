@@ -1,43 +1,50 @@
-version: '3'
+# Comments are provided throughout this file to help you get started.
+# If you need more help, visit the Docker Compose reference guide at
+# https://docs.docker.com/go/compose-spec-reference/
 
+# Here the instructions define your application as a service called "server".
+# This service is built from the Dockerfile in the current directory.
+# You can add other services your application may depend on here, such as a
+# database or a cache. For examples, see the Awesome Compose repository:
+# https://github.com/docker/awesome-compose
 services:
-  app:
-    image: node:18
-    labels:
-      - "traefik.frontend.rule=Host:app.docker.localhost"
-    working_dir: /application/app
-    volumes:
-      - /application/node_modules
-    environment:
-      NODE_ENV: production
-      NEXT_PUBLIC_BACKEND_URL: http://test.backend.siinedz.com/api
-      NEXT_PUBLIC_ITEMS_PER_PAGE: 25
-    networks:
-      - back-tier
-    command: bash -c "npm install && npm start"
+  server:
     build:
       context: .
-      dockerfile: Dockerfile
-
-  redis:
-    image: redis
-    networks:
-      - back-tier
-
-  reverse-proxy:
-    image: traefik
-    command: --api --providers.docker --tracing.instana.logLevel="DEBUG" --accesslog
+    environment:
+      NODE_ENV: production
     ports:
-      - "80:80"     # The HTTP port
-      - "8080:8080" # The Web UI (enabled by --api)
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
-    networks:
-      - front-tier
-      - back-tier
+      - 3000:3000
 
-networks:
-  front-tier:
-    driver: bridge
-  back-tier:
-    driver: bridge
+# The commented out section below is an example of how to define a PostgreSQL
+# database that your application can use. `depends_on` tells Docker Compose to
+# start the database before your application. The `db-data` volume persists the
+# database data between container restarts. The `db-password` secret is used
+# to set the database password. You must create `db/password.txt` and add
+# a password of your choosing to it before running `docker-compose up`.
+#     depends_on:
+#       db:
+#         condition: service_healthy
+#   db:
+#     image: postgres
+#     restart: always
+#     user: postgres
+#     secrets:
+#       - db-password
+#     volumes:
+#       - db-data:/var/lib/postgresql/data
+#     environment:
+#       - POSTGRES_DB=example
+#       - POSTGRES_PASSWORD_FILE=/run/secrets/db-password
+#     expose:
+#       - 5432
+#     healthcheck:
+#       test: [ "CMD", "pg_isready" ]
+#       interval: 10s
+#       timeout: 5s
+#       retries: 5
+# volumes:
+#   db-data:
+# secrets:
+#   db-password:
+#     file: db/password.txt
