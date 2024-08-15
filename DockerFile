@@ -1,6 +1,6 @@
 FROM node:18
-WORKDIR /application
-ADD . /application
+WORKDIR .
+ADD . .
 RUN git clone https://github.com/siine-project/siine-frontend.git .
 RUN npm install
 EXPOSE 3000
