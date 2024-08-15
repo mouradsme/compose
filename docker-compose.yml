@@ -1,20 +1,43 @@
-version: '3.8'
+version: '3'
 
 services:
   app:
     image: node:18
-    working_dir: /usr/src/app
+    labels:
+      - "traefik.frontend.rule=Host:app.docker.localhost"
+    working_dir: /application/app
     volumes:
-      - /usr/src/app/node_modules
-    ports:
-      - "3000:3000"
+      - /application/node_modules
     environment:
-      NODE_ENV: development
+      NODE_ENV: production
       NEXT_PUBLIC_BACKEND_URL: http://test.backend.siinedz.com/api
       NEXT_PUBLIC_ITEMS_PER_PAGE: 25
-      
-    restart: always
+    networks:
+      - back-tier
+    command: bash -c "npm install && npm start"
     build:
       context: .
       dockerfile: Dockerfile
-    command: bash -c "npm install && npm start"
+
+  redis:
+    image: redis
+    networks:
+      - back-tier
+
+  reverse-proxy:
+    image: traefik
+    command: --api --providers.docker --tracing.instana.logLevel="DEBUG" --accesslog
+    ports:
+      - "80:80"     # The HTTP port
+      - "8080:8080" # The Web UI (enabled by --api)
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - front-tier
+      - back-tier
+
+networks:
+  front-tier:
+    driver: bridge
+  back-tier:
+    driver: bridge
